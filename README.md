@@ -1,2 +1,2 @@
 # Chess
-###Chess  made in python-pygame
+Chess  made in python-pygame
